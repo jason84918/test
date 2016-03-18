@@ -1,5 +1,10 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "hello" << endl;
+	int n;
+	cin>>n;
+	while(n>=0){
+		cout << "hello" << endl;
+		n--;
+	}	
 }
