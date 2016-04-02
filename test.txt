@@ -1,3 +1,3 @@
 hello
 world
-hi
+I want to know how to do git pull
